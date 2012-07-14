@@ -5,7 +5,7 @@ Utilities designed for OpenFOAM, for reconstructing and interpolating fields at 
 
 Requirements:
 * [OpenFOAM](http://www.openfoam.org)
-* Git
+* Git (actually, this one is optional)
 
 How to get and build:
 ```
