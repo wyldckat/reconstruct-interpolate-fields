@@ -16,4 +16,4 @@ wmake all
 
 If you don't have Git installed, you can use the ZIP option shown in the project page: https://github.com/wyldckat/reconstruct-interpolate-fields
 
-For logistical reasons, more instructions are available here: [https://github.com/wyldckat/reconstruct-interpolate-fields/wiki]
+For logistical reasons, more instructions are available here: https://github.com/wyldckat/reconstruct-interpolate-fields/wiki
