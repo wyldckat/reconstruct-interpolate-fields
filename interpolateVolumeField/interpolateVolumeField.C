@@ -19,7 +19,7 @@ Application
     interpolateVolumeField
 
 Description
-    Interpolate vol*Field to scalar*Field.
+    Interpolate vol*Field to surface*Field.
 
 Author
     wyldckat@github
@@ -39,7 +39,7 @@ int main(int argc, char *argv[])
 
     argList::addNote
     (
-        "Interpolate vol*Field to scalar*Field."
+        "Interpolate vol*Field to surface*Field."
     );
     argList::addOption
     (
