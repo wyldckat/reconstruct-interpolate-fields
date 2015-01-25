@@ -57,6 +57,7 @@ int main(int argc, char *argv[])
     (
       "outputSurface*Field"
     );
+#   include "addRegionOption.H"
 
 #   include "setRootCase.H"
 #   include "createTime.H"
@@ -101,7 +102,7 @@ int main(int argc, char *argv[])
     
     instantList timeDirs = timeSelector::select0(runTime, args);
 
-#   include "createMesh.H"
+#   include "createNamedMesh.H"
 
     forAll(timeDirs, timeI)
     {
