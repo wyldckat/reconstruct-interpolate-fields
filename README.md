@@ -18,7 +18,7 @@ If you don't have Git installed, you can use the ZIP option shown in the project
 
 For logistical reasons, more instructions are available here: https://github.com/wyldckat/reconstruct-interpolate-fields/wiki
 
-This [git repository](https://github.com/wyldckat/reconstruct-interpolate-fields) was brought to you by Bruno Santos (wyldckat@github working at [blueCAPE Lda](www.bluecape.com.pt)).
+This [git repository](https://github.com/wyldckat/reconstruct-interpolate-fields) was brought to you by Bruno Santos (wyldckat@github working at [blueCAPE Lda](http://www.bluecape.com.pt)).
 
 License
 =======
